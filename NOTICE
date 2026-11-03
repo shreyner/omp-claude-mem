@@ -1,0 +1,13 @@
+omp-claude-mem
+Copyright 2026 Aleksandr Shreyner
+
+This product includes software developed for the Claude-Mem project
+(https://github.com/thedotmack/claude-mem):
+
+  Claude-Mem
+  Copyright 2026 Alex Newman
+  Licensed under the Apache License, Version 2.0.
+
+src/claude-mem.ts is a modified version of Claude-Mem's omp/hooks/claude-mem.ts
+(v15.9.0). The files under upstream/ are unmodified copies of that file kept for
+comparison. The changes are listed in README.md.

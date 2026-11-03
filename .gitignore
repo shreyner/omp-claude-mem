@@ -1,0 +1,7 @@
+# Written by deploy.sh on every install
+backups/
+reports/
+.last-deployed.sha256
+
+node_modules/
+.DS_Store

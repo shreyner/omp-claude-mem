@@ -1,0 +1,11 @@
+{
+  "captured_at": "2026-11-03",
+  "claude_mem_version": "15.9.0",
+  "omp_version": "18.16.0",
+  "upstream_commit": "046db6af261361b70f528f87b58b53359ec1b639",
+  "upstream_tag": "v15.9.0",
+  "source": "https://github.com/thedotmack/claude-mem/blob/v15.9.0/omp/hooks/claude-mem.ts",
+  "sha256": "a98a54303c081113be8b51a84cad82674f3fe72eed830d0d0f9f9c13c02320cc",
+  "note": "Last omp/ commit on main at capture time; the v15.9.0 tag file is byte-identical to main 046db6af2.",
+  "installed_path": "~/.omp/agent/hooks/pre/claude-mem.ts"
+}
